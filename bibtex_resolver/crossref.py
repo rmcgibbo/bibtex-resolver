@@ -28,7 +28,6 @@ def retreive_record(doi):
 def retreive_bibtex(search):
     lines = []
     for item in retreive_doi(search):
-        print(item)
         lines.append(retreive_record(item['doi']))
     db = PARSER.parse('\n'.join(lines))
     return WRITER.write(db)
