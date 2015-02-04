@@ -1,0 +1,16 @@
+stopwords = {
+    'most', 'or', 'of', 'will', 'our', 'until', 'i', 'during', 'he',
+    'by', 'myself', 'here', 'against', 'at', 'some', 'than', 'they',
+    'themselves', 'it', 'out', 'been', 'through', 'has', 'ourselves',
+    'from', 'their', 'theirs', 'when', 'just', 'same', 'as', 'other',
+    'so', 'am', 'with', 'itself', 'no', 'don', 'whom', 'very', 'are',
+    'what', 'an', 'my', 'into', 'under', 'all', 'own', 'because', 'yourself',
+    'further', 'few', 's', 'both', 'your', 'for', 'did', 'while', 'after',
+    'off', 'its', 'but', 'is', 'such', 'once', 'we', 'nor', 'where', 'be',
+    'do', 'not', 'only', 'should', 'over', 'above', 'was', 'more', 'now',
+    'does', 'below', 'himself', 'about', 'down', 'having', 'too', 'who',
+    'you', 'yours', 'those', 'how', 'each', 'in', 'why', 'had', 'them',
+    'this', 'to', 'and', 'doing', 'being', 'again', 'ours', 'on', 'hers',
+    'between', 'if', 'herself', 'which', 'me', 'there', 'him', 'his',
+    'these', 'up', 'yourselves', 't', 'can', 'have', 'a', 'the', 'before',
+    'then', 'any', 'were', 'that', 'she', 'her', '{', '}'}
